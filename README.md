@@ -1,6 +1,6 @@
 # Automation
 This repository will feature a straightforward design and include a selection of automation tools to streamline and enhance daily penetration testing activities. Its structure and contents will include the following:
-## Search Keywords in Files
+## [Search Keywords in Files](https://github.com/MGamalCYSEC/Automation/blob/main/search_keywords.py)
 This Python script recursively searches through all files in a given directory (including subdirectories) for specific keywords provided in a text file. It highlights any found keywords on the Linux terminal for easy visibility.
 
 #### **Usage:**
